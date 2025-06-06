@@ -65,10 +65,10 @@ To be eligible for ratification:
 
 ## 🗺 Module Roadmap
 
-📁 Find detailed plans for each module below:
-- [Module 1](./Module%201.pdf)
-- [Module 2](./Module%202.pdf)
-- [Module 3](./Module%203.pdf)
+📁 Find detailed module roadmaps here:
+- [📄 Module 1](https://drive.google.com/file/d/1haQtBndmjY5kwheP52tvkrZ9VY4dPB4q/view)
+- [📄 Module 2](https://drive.google.com/file/d/19AmM5Bzmwk0qLi-oUA6W2O0tQvd_aUzj/view)
+- [📄 Module 3](https://drive.google.com/file/d/18FGpJmX2klZ-WzqrofUVY7JJvo7FZsNH/view)
 
 ---
 
